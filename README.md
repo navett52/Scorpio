@@ -3,6 +3,7 @@ Scorpio is going to be a multifunctional game engine. I want to develop it just 
 
 A tee-shirt on the internet once said:
 > Weeks of coding can save you hours of planning.
+
 and I don't plan to follow that.
 
 ## Wanted Features
